@@ -36,4 +36,4 @@ I'm an junior full-stack developer, building my digital projects from the ground
 </p>
 
 ### Stats
-![Xellor's GitHub stats](https://github-readme-stats.vercel.app/api?username=xellor-dev&show_icons=true&theme=radical)
+![Xellor's GitHub stats](https://github-readme-stats.vercel.app/api?username=xellor-dev&show_icons=true&theme=transparent)
