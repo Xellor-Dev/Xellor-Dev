@@ -35,5 +35,5 @@ I'm an junior full-stack developer, building my digital projects from the ground
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=robot&logoColor=white" />
 </p>
 
-### Stats
+### 📕 Stats
 ![Xellor's GitHub stats](https://github-readme-stats.vercel.app/api?username=xellor-dev&show_icons=true&theme=transparent)
