@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 I'm an junior full-stack developer, building my digital projects from the ground up. My journey into programming started with creating Discord bots, which inspired me to dive deeper into coding. Now, I primarily focus on Python development and am exploring the world of machine learning.
 
 ### 🧰 Languages and Tools
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </p>
