@@ -24,3 +24,13 @@ I'm an junior full-stack developer, building my digital projects from the ground
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
 </p>
+
+### 📚 Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NLP-008080?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logoColor=white" />
+</p>
