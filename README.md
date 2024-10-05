@@ -37,3 +37,6 @@ I'm an junior full-stack developer, building my digital projects from the ground
 
 ### 📕 Stats
 ![Xellor's GitHub stats](https://github-readme-stats.vercel.app/api?username=xellor-dev&show_icons=true&theme=transparent)
+
+### 💡 Ideas
+AI service that is based on machine learning recommends a linux distribution.
