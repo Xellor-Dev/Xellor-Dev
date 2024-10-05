@@ -32,9 +32,9 @@ I'm an junior full-stack developer, building my digital projects from the ground
   <img src="https://img.shields.io/badge/-TensorFlow-FFA726?style=flat-square&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=graph&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NLP-008080?style=flat-square&logo=brain&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=Matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NLP-008080?style=flat-square&logo=NLP&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=ml&logoColor=white" />
 </p>
 
 ### 📕 Stats
