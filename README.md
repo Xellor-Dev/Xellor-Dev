@@ -23,7 +23,7 @@ I'm an junior full-stack developer, building my digital projects from the ground
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FE9000ff?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FFA726?style=flat-square&logo=TensorFlow&logoColor=white" />
 </p>
 
 ### 📚 Learning
