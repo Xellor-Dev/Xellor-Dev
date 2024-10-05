@@ -29,7 +29,7 @@ I'm an junior full-stack developer, building my digital projects from the ground
 ### 📚 Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-TensorFlow-FFA726?style=flat-square&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=Matplotlib&logoColor=white" />
