@@ -2,8 +2,6 @@
 
 ### Python Developer & Linux Enthusiast | Aspiring DevOps Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Xellor-Dev&label=Profile views&color=0e75b6&style=flat" alt="Xellor-Dev" /> </p>
-
 - 🔭 I'm currently working on **pet projects that mimic real-world infrastructure (CI/CD, Docker) to land my first role as a DevOps**
 
 - 🌱 I'm currently learning **Containerization (Docker), Infrastructure as Code (Ansible) and Cloud Platforms**
