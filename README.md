@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xellor-Dev&show_icons=true&locale=en&layout=compact" alt="Xellor-Dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Xellor-Dev&show_icons=true&locale=en" alt="Xellor-Dev" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xellor-Dev&" alt="Xellor-Dev" /></p>
