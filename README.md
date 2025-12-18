@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **xellor.cooperation@gmail.com**
 
-- ⚡ Fun fact **I use Arch Linux, btw (and I know how to exit Vim :) )**
+- ⚡ Fun fact **I use Nix OS, btw (and I know how to exit Vim :) )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
