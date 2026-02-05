@@ -14,7 +14,7 @@
 
 ```yaml
 name: Danylo B.
-located_in: Ukraine
+located_in: Poland
 current_focus: Landing my first DevOps role
 education:
   - "Self-taught Developer"
