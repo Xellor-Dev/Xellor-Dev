@@ -1,30 +1,134 @@
-# Hi 👋, I'm Danylo B.
+<div align="center">
 
-### Python Developer & Linux Enthusiast | Aspiring DevOps Engineer
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Danylo%20B.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20Linux%20Enthusiast%20%7C%20Aspiring%20DevOps%20Engineer&descAlignY=52&descSize=18"/>
 
-- 🔭 I'm currently working on **pet projects that mimic real-world infrastructure (CI/CD, Docker) to land my first role as a DevOps**
+<!-- Typing Animation - Shows rotating text with JetBrains Mono font -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+real-world+infrastructure+with+CI%2FCD;Automating+everything+with+Python+%26+Bash;Containerizing+apps+with+Docker;Learning+Kubernetes+%26+Cloud+Platforms;I+use+NixOS%2C+btw+%F0%9F%90%A7)](https://git.io/typing-svg)
 
-- 🌱 I'm currently learning **Containerization (Docker), Infrastructure as Code (Ansible) and Cloud Platforms**
+</div>
 
-- 👯 I'm looking to collaborate on **Open source Python automation tools and Linux system utilities**
+---
 
-- 🤝 I'm looking for help with **Advanced Kubernetes orchestration and high-load architecture**
+## 👨‍💻 About Me
 
-- 💬 Ask me about **Python scripting, Arch Linux configuration, Systemd services, and Bash**
+```yaml
+name: Danylo B.
+located_in: Ukraine
+current_focus: Landing my first DevOps role
+education:
+  - "Self-taught Developer"
+  - "Continuous Learning Advocate"
 
-- 📫 How to reach me **xellor.cooperation@gmail.com**
+currently:
+  working_on: "Pet projects mimicking real-world infrastructure (CI/CD, Docker)"
+  learning: ["Docker", "Ansible", "Kubernetes", "Cloud Platforms (AWS/GCP)"]
+  
+looking_for:
+  collaboration: "Open source Python automation tools & Linux system utilities"
+  help_with: "Advanced Kubernetes orchestration & high-load architecture"
 
-- ⚡ Fun fact **I use Nix OS, btw (and I know how to exit Vim :) )**
+fun_fact: "I use NixOS, btw (and I know how to exit Vim 😉)"
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Xellor-Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Xellor-Dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xellor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xellor" height="30" width="40" /></a>
-<a href="https://instagram.com/xellorrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xellorrr" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a></p>
+## 🛠️ Tech Stack
 
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xellor-Dev&" alt="Xellor-Dev" /></p>
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+
+### DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Operating Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Cards - Using github-readme-stats with 30-minute cache -->
+<a href="https://github.com/Xellor-Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xellor-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+</a>
+<a href="https://github.com/Xellor-Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xellor-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+</a>
+
+<br/>
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/Xellor-Dev">
+  <img src="https://streak-stats.demolab.com?user=Xellor-Dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+---
+
+## 💬 Ask Me About
+
+<div align="center">
+
+`Python Scripting` `Linux Configuration` `Systemd Services` `Bash Automation` `Docker` `CI/CD Pipelines` `NixOS`
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-xellor.cooperation%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xellor.cooperation@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-xellor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xellor)
+[![GitHub](https://img.shields.io/badge/GitHub-Xellor--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xellor-Dev)
+[![Instagram](https://img.shields.io/badge/Instagram-xellorrr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xellorrr)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Graph
+
+<!-- Snake animation is generated by GitHub Actions workflow using: https://github.com/Platane/snk -->
+<!-- To set up: Create .github/workflows/snake.yml with the snk action -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xellor-Dev/Xellor-Dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xellor-Dev/Xellor-Dev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Xellor-Dev/Xellor-Dev/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Xellor-Dev&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
