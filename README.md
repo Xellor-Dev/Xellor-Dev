@@ -67,12 +67,20 @@ fun_fact: "I use NixOS, btw (and I know how to exit Vim 😉)"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xellor-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xellor-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<!-- GitHub Stats Cards - Using github-readme-stats with 30-minute cache -->
+<a href="https://github.com/Xellor-Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xellor-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+</a>
+<a href="https://github.com/Xellor-Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xellor-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800"/>
+</a>
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Xellor-Dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/Xellor-Dev">
+  <img src="https://streak-stats.demolab.com?user=Xellor-Dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</a>
 
 </div>
 
