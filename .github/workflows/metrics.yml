@@ -20,7 +20,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Базовые настройки
-          user: tvoi-login
+          user: Xellor-Dev
           template: classic
           base: header, community, repositories, metadata
           config_timezone: Europe/Warsaw
