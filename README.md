@@ -56,7 +56,7 @@ fun_fact: "I use NixOS, btw (and I know how to exit Vim 😉)"
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,python,linux,nix,github,bash,yaml" />
   </a>
 </p>
 
