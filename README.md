@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Danylo%20B.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20Linux%20Enthusiast%20%7C%20Aspiring%20DevOps%20Engineer&descAlignY=52&descSize=18"/>
-
-<!-- Typing Animation - Shows rotating text with JetBrains Mono font -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+real-world+infrastructure+with+CI%2FCD;Automating+everything+with+Python+%26+Bash;Containerizing+apps+with+Docker;Learning+Kubernetes+%26+Cloud+Platforms;I+use+NixOS%2C+btw+%F0%9F%90%A7)](https://git.io/typing-svg)
 
 </div>
 
@@ -58,6 +53,12 @@ fun_fact: "I use NixOS, btw (and I know how to exit Vim 😉)"
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 </div>
 
