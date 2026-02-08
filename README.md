@@ -2,9 +2,6 @@
 
 
 </div>
-
----
-
 ## 👨‍💻 About Me
 
 ```yaml
