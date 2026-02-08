@@ -56,12 +56,3 @@ fun_fact: "I use NixOS, btw (and I know how to exit Vim 😉)"
 </div>
 
 ---
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-xellor.cooperation%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xellor.cooperation@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-xellor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xellor)
-[![GitHub](https://img.shields.io/badge/GitHub-Xellor--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xellor-Dev)
-[![Instagram](https://img.shields.io/badge/Instagram-xellorrr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xellorrr)
