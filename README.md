@@ -51,6 +51,8 @@ fun_fact: "I use NixOS, btw (and I know how to exit Vim 😉)"
   <img src="https://streak-stats.demolab.com?user=Xellor-Dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </a>
 
+![Metrics](/github-metrics.svg)
+
 </div>
 
 ---
