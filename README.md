@@ -56,7 +56,6 @@ fun_fact: "I use NixOS, btw (and I know how to exit Vim 😉)"
 </div>
 
 ---
----
 
 ## 🤝 Connect with Me
 
