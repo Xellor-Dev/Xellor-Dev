@@ -7,21 +7,20 @@
 
 ```yaml
 name: Danylo B.
-located_in: Poland
-current_focus: Landing my first DevOps role
+located_in: Poland (Relocation -> Larnaca, Cyprus)
+current_focus: Learning DevOps mind set.
 education:
   - "Self-taught Developer"
   - "Continuous Learning Advocate"
 
 currently:
   working_on: "Pet projects mimicking real-world infrastructure (CI/CD, Docker)"
-  learning: ["Docker", "Ansible", "Kubernetes", "Cloud Platforms (AWS/GCP)"]
+  learning: ["Docker", "Terraform", "Git", "Cloud Platforms (AWS/GCP)"]
   
 looking_for:
   collaboration: "Open source Python automation tools & Linux system utilities"
   help_with: "Advanced Kubernetes orchestration & high-load architecture"
 
-fun_fact: "I use NixOS, btw (and I know how to exit Vim 😉)"
 ```
 
 ---
